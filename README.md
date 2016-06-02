@@ -6,6 +6,7 @@
 + If you already have Node.js and npm installed, check the versions:
   * **$ node --version**
   * **$ npm -v**
+  
 ## Version Control
 N is a version control manager for Node.js:
 + **$ sudo npm install -g n**
